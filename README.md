@@ -3,10 +3,8 @@ Our philosophy centers around creating a harmonious and self-sustaining edible e
 ## Minimal Active Management:
 - Starting Phase: Intensive efforts are invested in the initial planting phase, carefully selecting a diverse range of plant species.
 - Subsequent Phases: Once established, the ecosystem is left to its own devices with minimal human intervention. The emphasis is on allowing natural processes to unfold, limiting further active management.
-Natural Competition and Evolution:
-
-## Desired Dynamics:
-We encourage natural competition among plant species, fostering an environment where they evolve and adapt over time. This promotes resilience and self-regulation within the ecosystem.
+## Natural Competition and Evolution:
+- Desired Dynamics: We encourage natural competition among plant species, fostering an environment where they evolve and adapt over time. This promotes resilience and self-regulation within the ecosystem.
 
 ## Perennial and Annual Integration:
 - Diversity of Lifecycles: Our landscape is intentionally designed to include both perennial and annual plants. This dynamic mix enhances biodiversity, providing continuous yields while allowing for the natural ebb and flow of seasonal changes.
