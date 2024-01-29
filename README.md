@@ -1,25 +1,45 @@
 # Edible-Forest
 Our philosophy centers around creating a harmonious and self-sustaining edible ecosystem, blending the principles of permaculture, agroforestry, and nature-inspired design. Our approach seeks to establish a resilient landscape that evolves through natural competition and self-regulation, providing a diverse array of edible and medicinal products.
+
+Unlike 'nature preservation' that is unable to compromise in its narrow perspective, we focus on Human-Nature Coexistence, as our world population grows so does the demand for food.
+Current agriculture destroys our climate by deforestation, monoculture, meat-production, pollution and soil destruction.
+
+We must find a new balance with nature, and design it to be beneficial and harmonious to animal life.
+To create natural space where animals are let to live and roam freely, only to be eaten when they die of natural deaths, and to have proper nutritional alternatives to high meat consumption, we must plant to provide ourselves with cost-sensible alternatives.
+
+Currently crops such as nuts are in such low production their price is to high to enable a transfer to an alternative diet.
+
+To allow for maximum diversity, competition an resilience in these new ecosystems, we introduce an as wide as possible variety of plants as possible, to let them interact and adapt to a new symbiosis.
+
+
 ## Minimal Active Management:
 ### Starting Phase:
 Intensive efforts are invested in the initial planting phase, carefully selecting a diverse range of plant species.
-### Subsequent Phases:
+### Maintainance Phase:
 Once established, the ecosystem is left to its own devices with minimal human intervention. The emphasis is on allowing natural processes to unfold, limiting further active management.
+interventions to be held are:
+- The removal of unproductive plants
+- The removal of parasitic plants
+- The reduction of overly dominant plants
+- The introduction of insects or plants to counter pests or disease
+
 ## Natural Competition and Evolution:
 ### Desired Dynamics:
-We encourage natural competition among plant species, fostering an environment where they evolve and adapt over time. This promotes resilience and self-regulation within the ecosystem.
+We encourage natural competition among plant and animal species, fostering an environment where they evolve and adapt over time. This promotes resilience and self-regulation within the ecosystem.
 
 ## Perennial and Annual Integration:
 ### Diversity of Lifecycles:
 Our landscape is intentionally designed to include both perennial and annual plants. This dynamic mix enhances biodiversity, providing continuous yields while allowing for the natural ebb and flow of seasonal changes.
+
 ## Ecosystem Synergy:
 ### Holistic Design:
 The design of the ecosystem takes a holistic approach, considering the interactions between plants, animals, and the environment. This synergy fosters a balanced and resilient system.
-Cultural and Community Connection:
+
+## Cultural and Community Connection:
 ### Human-Nature Coexistence:
 Acknowledging the intrinsic value of nature, our approach integrates cultural and community aspects. The landscape serves as a source of sustenance, fostering a deeper connection between people and the environment.
 
-##Conclusion:
+## Conclusion:
 In embracing this naturalistic edible ecosystem philosophy, we aim to create a space where nature is given the freedom to shape itself, allowing for an evolving and self-sustaining landscape that provides both ecological and human benefits. Our commitment lies in coexisting with nature, allowing it to thrive in its own rhythm.
 
 
@@ -92,4 +112,7 @@ In embracing this naturalistic edible ecosystem philosophy, we aim to create a s
 | Oregano           | Origanum vulgare         | Perennial | 0.3-0.6 m       |
 | Chives            | Allium schoenoprasum     | Perennial | 0.2-0.4 m       |
 | Dill              | Anethum graveolens       | Annual    | 0.6-1 m         |
+
+## Fungi
+
 
