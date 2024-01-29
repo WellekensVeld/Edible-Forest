@@ -1,16 +1,34 @@
 # Edible-Forest
-Planning for Edible forest
+Our philosophy centers around creating a harmonious and self-sustaining edible ecosystem, blending the principles of permaculture, agroforestry, and nature-inspired design. Our approach seeks to establish a resilient landscape that evolves through natural competition and self-regulation, providing a diverse array of edible and medicinal products.
+## Minimal Active Management:
+- Starting Phase: Intensive efforts are invested in the initial planting phase, carefully selecting a diverse range of plant species.
+- Subsequent Phases: Once established, the ecosystem is left to its own devices with minimal human intervention. The emphasis is on allowing natural processes to unfold, limiting further active management.
+Natural Competition and Evolution:
 
-## Climate
-### Temperature range / Hardiness
+## Desired Dynamics:
+We encourage natural competition among plant species, fostering an environment where they evolve and adapt over time. This promotes resilience and self-regulation within the ecosystem.
 
-### Rainfall
+## Perennial and Annual Integration:
+- Diversity of Lifecycles: Our landscape is intentionally designed to include both perennial and annual plants. This dynamic mix enhances biodiversity, providing continuous yields while allowing for the natural ebb and flow of seasonal changes.
+## Ecosystem Synergy:
+- Holistic Design: The design of the ecosystem takes a holistic approach, considering the interactions between plants, animals, and the environment. This synergy fosters a balanced and resilient system.
+Cultural and Community Connection:
+- Human-Nature Coexistence: Acknowledging the intrinsic value of nature, our approach integrates cultural and community aspects. The landscape serves as a source of sustenance, fostering a deeper connection between people and the environment.
 
-### Soil compositure
+Conclusion:
+In embracing this naturalistic edible ecosystem philosophy, we aim to create a space where nature is given the freedom to shape itself, allowing for an evolving and self-sustaining landscape that provides both ecological and human benefits. Our commitment lies in coexisting with nature, allowing it to thrive in its own rhythm.
 
-## Types of Plants
 
-### Nut Trees
+# Climate
+## Temperature range / Hardiness
+
+## Rainfall
+
+## Soil compositure
+
+# Types of Plants
+
+## Nut Trees
 
 | Name                  | Scientific Name          | Hardiness Zone | Pollination Type  | Years Until Production | Height          |
 |-----------------------|--------------------------|----------------|-------------------|------------------------|-----------------|
@@ -25,7 +43,7 @@ Planning for Edible forest
 | Chestnut (American)   | Castanea dentata         | 4-8            | Cross-pollinating | 4-6                    | 15-31 m         |
 | Chestnut (European)   | Castanea sativa          | 4-8            | Cross-pollinating | 3-5                    | 15-31 m         |
 
-### Fruit Trees
+## Fruit Trees
 
 | Name                 | Scientific Name          | Pollination Type  | Years Until Production | Rounded Height |
 |----------------------|--------------------------|-------------------|------------------------|-----------------|
@@ -40,7 +58,7 @@ Planning for Edible forest
 | Pear                 | Pyrus communis           | Cross-pollinating | 4-6                    | 4-9 m           |
 | Plumcot              | Prunus salicina x Prunus armeniaca | Cross-pollinating | 3-5             | 3-6 m           |
 
-### Berries and small fruit schrubs
+## Berries and small fruit schrubs
 
 | Name                 | Scientific Name          | Pollination Type  | Years Until Production | Rounded Height |
 |----------------------|--------------------------|-------------------|------------------------|-----------------|
@@ -56,7 +74,7 @@ Planning for Edible forest
 | Elderberry           | Sambucus canadensis      | Cross-pollinating | 2-3                    | 2-4 m           |
 
 
-### Herbs
+## Herbs
 
 | Name              | Scientific Name          | Type      | Rounded Height |
 |-------------------|--------------------------|-----------|-----------------|
